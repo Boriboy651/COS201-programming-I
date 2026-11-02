@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class Temp {
     public static void main(String[] args) {
         System.out.println("COURSE: COS 201");
         System.out.println("COURSE TITLE: Computer Programming I");
