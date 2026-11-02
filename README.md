@@ -54,15 +54,15 @@ through GitHub.
 
 ### Programmes Completed
 
-### 1. SimpleCalculator.java**
+### 1. SimpleCalculator.java
 
 This programme accepts two numbers from the user and performs addition, subtraction, multiplication and division. It also checks for division by zero.
 
-### 2. AverageCalculator.java**
+### 2. AverageCalculator.java
 
 This programme collects a student's name and three scores. It calculates and displays the total and average score.
 
-### 3. ItemCost.java**
+### 3. ItemCost.java
 
 This programme accepts an item name, quantity and unit price. It calculates and displays the total cost.
 
