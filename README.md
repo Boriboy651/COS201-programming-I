@@ -2,37 +2,40 @@
 
 ## Week 3: Variables, Data Types, Expressions and Input/Output
 
+### Introduction
+Week 3 focused on learning how to use variables, data types, arithmetic expressions and keyboard input in Java programming.
+
+### Aim
+To understand how to store data, perform calculations and display results using Java.
+
 ### Objectives
-- Declare and initialize Java variables.
-- Use appropriate primitive and reference data types.
-- Perform arithmetic calculations.
-- Read keyboard input using Scanner.
-- Display formatted output.
-- Compile, test and submit Java programs using GitHub.
+- Learn how to declare and initialize variables.
+- Understand Java data types.
+- Perform arithmetic operations.
+- Collect user input using `Scanner`.
+- Display results using output statements.
 
-### Programs
-1. `week03/SimpleCalculator.java`
-   - Performs arithmetic calculations on two numbers.
-2. `week03/AverageCalculator.java`
-   - Calculates the total and average of three scores.
-3. `week03/ItemCost.java`
-   - Calculates the total cost using quantity and unit price.
+### Programmes Completed
 
-### How to Run
-Open a terminal in the `week03` directory.
+### 1. SimpleCalculator.java**
 
-Compile and run the calculator:
-- `javac SimpleCalculator.java`
-- `java SimpleCalculator`
+This programme accepts two numbers from the user and performs addition, subtraction, multiplication and division. It also checks for division by zero.
 
-Compile and run the average calculator:
-- `javac AverageCalculator.java`
-- `java AverageCalculator`
+### 2. AverageCalculator.java**
 
-Compile and run the item-cost program:
-- `javac ItemCost.java`
-- `java ItemCost`
+This programme collects a student's name and three scores. It calculates and displays the total and average score.
+
+### 3. ItemCost.java**
+
+This programme accepts an item name, quantity and unit price. It calculates and displays the total cost.
+
+### How to Run the Programmes
+Open the VS Code terminal and enter the following commands:
+
+- `javac SimpleCalculator.java` then `java SimpleCalculator`
+- `javac AverageCalculator.java` then `java AverageCalculator`
+- `javac ItemCost.java` then `java ItemCost`
 
 ### Testing
-Test each program with different valid inputs and verify
-that the results match the expected calculations.
+Each programme should be tested with different inputs to confirm that the calculations and displayed results are correct.
+
